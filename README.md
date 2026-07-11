@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**NHashJp/NHashJp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Naoki Hashimoto, a software engineer passionate about full-stack development, robotics, and aerospace engineering.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Naoki%20Hashimoto-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINK)
+
+[![GitHub](https://img.shields.io/badge/GitHub-naokih25-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/naokih25)
+
+[![Email](https://img.shields.io/badge/Email-naokih25%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:naokih25@gmail.com)
+
+---
+
+## Languages
+
+- Japanese — Native
+- English — Native / Fluent
+- Spanish — Native / Fluent
+- Catalan — Intermediate
+
+---
+
+# Tech Stack
+
+## Languages
+
+[![Languages](https://skillicons.dev/icons?i=bash,c,cpp,css,html,java,js,python,r,ts&perline=5)](https://skillicons.dev)
+
+## Frameworks & Libraries
+
+[![Frameworks](https://skillicons.dev/icons?i=arduino,nodejs,opencv,pytorch,react,ros,tensorflow,threejs&perline=4)](https://skillicons.dev)
+
+## Databases & DevOps
+
+[![Infrastructure](https://skillicons.dev/icons?i=docker,mongodb,mysql,npm,postgres,qt,raspberrypi&perline=4)](https://skillicons.dev)
+
+## Tools
+
+[![Tools](https://skillicons.dev/icons?i=blender,discord,figma,git,github,matlab,notion,postman,vscode&perline=5)](https://skillicons.dev)
