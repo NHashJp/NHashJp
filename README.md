@@ -10,6 +10,8 @@ I'm Naoki Hashimoto, a junior software engineer passionate about full-stack deve
 
 [![Email](https://img.shields.io/badge/Email-nhnaokih25%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nhnaokih25@gmail.com)
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-4CAF50?style=for-the-badge&logo=googlechrome&logoColor=white)](https://https://github.com/NHashJp/portfolio2026)
+
 ---
 
 ## Languages
