@@ -4,11 +4,11 @@ I'm Naoki Hashimoto, a software engineer passionate about full-stack development
 
 ## About Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Naoki%20Hashimoto-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINK)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Naoki%20Hashimoto-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/n-hash9999)
 
-[![GitHub](https://img.shields.io/badge/GitHub-naokih25-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/naokih25)
+[![GitHub](https://img.shields.io/badge/GitHub-naokih25-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NHashJp)
 
-[![Email](https://img.shields.io/badge/Email-naokih25%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:naokih25@gmail.com)
+[![Email](https://img.shields.io/badge/Email-naokih25%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nhnaokih25@gmail.com)
 
 ---
 
