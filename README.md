@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm Naoki Hashimoto, a juniorsoftware engineer passionate about full-stack development, robotics.
+I'm Naoki Hashimoto, a junior software engineer passionate about full-stack development, robotics.
 
 ## About Me
 
